@@ -1,11 +1,31 @@
-### Hi there 👋
+### Hi there! Karen here. 👋
+
+I'm an open source community manager in the cloud native space, working at Microsoft Azure. 
+
+You can find me in these communities:
+
+- CNCF 
+- Kubernetes
+- Helm
+- Brigade
+- Service Mesh Interface
+- Open Service Mesh
+- Krustlet
+- Deis Labs
+
 
 <!--
 **karenhchu/karenhchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+Hi there! I'm Karen. 
+
 - 🔭 I’m currently working on ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
