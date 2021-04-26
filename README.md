@@ -4,14 +4,15 @@ I'm an open source community manager in the cloud native space, working at Micro
 
 You can find me in these communities:
 
-- CNCF 
-- Kubernetes
-- Helm
-- Brigade
-- Service Mesh Interface
-- Open Service Mesh
-- Krustlet
-- Deis Labs
+- [CNCF](https://github.com/cncf)
+- [Kubernetes](https://github.com/kubernetes/kubernetes)
+- [Helm](https://github.com/helm/helm)
+- [Brigade](https://github.com/brigadecore/brigade/)
+- [Service Mesh Interface](https://github.com/servicemeshinterface/smi-spec)
+- [Open Service Mesh](https://github.com/openservicemesh/osm)
+- [Krustlet](https://github.com/deislabs/krustlet)
+- [Deis Labs](https://deislabs.io/)
+- and more!
 
 
 <!--
