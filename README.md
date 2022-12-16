@@ -1,14 +1,14 @@
 ### Hi there! Karen here. 👋
 
-I'm an open source community manager in the cloud native space, working at Microsoft Azure. 
+I'm an open source community manager in the WebAssembly + cloud native space, working at Fermyon Technologies. 
 
 You can find me in these communities:
 
 - [CNCF](https://github.com/cncf)
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
 - [Helm](https://github.com/helm/helm)
-- [Open Service Mesh](https://github.com/openservicemesh/osm)
-- [Deis Labs](https://deislabs.io/)
+- [Spin](https://github.com/fermyon/spin)
+- [Fermyon](https://github.com/fermyon)
 - and more!
 
 
