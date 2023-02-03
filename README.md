@@ -1,6 +1,6 @@
 ### Hi there! Karen here. 👋
 
-I'm an open source community manager in the WebAssembly + cloud native space, working at Fermyon Technologies. 
+I'm an open source community manager in the WebAssembly + cloud native space, working [@Fermyon Technologies](https://github.com/fermyon). 
 
 You can find me in these communities:
 
