@@ -4,11 +4,11 @@ I'm an open source community manager in the WebAssembly + cloud native space, wo
 
 You can find me in these communities:
 
+- [Fermyon](https://github.com/fermyon)
+- [Spin](https://github.com/fermyon/spin)
+- [Helm](https://github.com/helm/helm)
 - [CNCF](https://github.com/cncf)
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
-- [Helm](https://github.com/helm/helm)
-- [Spin](https://github.com/fermyon/spin)
-- [Fermyon](https://github.com/fermyon)
 - and more!
 
 
