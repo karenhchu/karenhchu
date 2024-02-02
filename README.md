@@ -9,6 +9,7 @@ You can find me in these communities:
 - [Helm](https://github.com/helm/helm)
 - [CNCF](https://github.com/cncf)
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
+- [Bytecode Alliance](https://github.com/bytecodealliance)
 - and more!
 
 
