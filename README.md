@@ -6,6 +6,7 @@ You can find me in these communities:
 
 - [Fermyon](https://github.com/fermyon)
 - [Spin](https://github.com/fermyon/spin)
+- [SpinKube](https://github.com/spinkube)
 - [Helm](https://github.com/helm/helm)
 - [CNCF](https://github.com/cncf)
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
