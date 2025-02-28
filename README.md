@@ -1,9 +1,10 @@
 ### Hi there! Karen here. 👋
 
-I'm an open source community program manager in the cloud native space. 
+I'm an open source community pm focused on @swiftlang community iniatives. You might also know me from my previous work in the cloud native and wasm space!
 
 You can find me in these communities:
 
+- [Swift](https://github.com/swiftlang)
 - [Helm](https://github.com/helm/helm)
 - [CNCF](https://github.com/cncf)
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
