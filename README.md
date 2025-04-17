@@ -1,6 +1,6 @@
 ### Hi there! Karen here. 👋
 
-I'm an open source community pm focused on @swiftlang community iniatives. You might also know me from my previous work in the cloud native and wasm space!
+I'm an open source community pm focused on [Swift](https://github.com/swiftlang) lang community iniatives. You might also know me from my previous work in the cloud native and Wasm space!
 
 You can find me in these communities:
 
